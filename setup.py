@@ -96,7 +96,7 @@ setup(
     keywords='webapp,flask,competition,osamc,fm synthesis',
     author='Christopher Arndt',
     author_email='chris@chrisarndt.de',
-    url='https://github.com/SpotlightKid/fnmchallenge-webapp',
+    url='https://github.com/SpotlightKid/fmchallenge-webapp',
     license='MIT License',
     description='Dynamic part of the web site for the Open Source FM Synthesizer Challenge',
     classifiers=classifiers,
